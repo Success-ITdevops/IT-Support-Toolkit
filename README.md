@@ -33,7 +33,7 @@ A collection of **scripts, tools, and guides** to help IT Support professionals 
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR-GITHUB-USERNAME/IT-Support-Toolkit.git
+   git clone https://github.com/Success-ITdevops/IT-Support-Toolkit.git
    ```  
 2. Navigate to the project folder:  
    ```bash
